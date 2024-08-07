@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_img": "https://i.ibb.co/jLHw4qF/Spaghetti-Carbonara.jpg",
+    "recipe_id": 1,
+    "recipe_name": "Spaghetti Carbonara",
+    "recipe_title": "Classic Italian Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Eggs",
+      "Parmesan Cheese",
+      "Pancetta",
+      "Pepper",
+      "Salt"
+    ],
+    "preparing_time": 25,
+    "calories": 450
+  },
+  {
+    "recipe_img": "https://i.ibb.co/gFkh7Pc/Caesar-Salad.jpg",
+    "recipe_id": 2,
+    "recipe_name": "Caesar Salad",
+    "recipe_title": "Fresh Caesar Salad with Homemade Dressing",
+    "ingredients": [
+      "Romaine Lettuce",
+      "Caesar Dressing",
+      "Croutons",
+      "Parmesan Cheese",
+      "Lemon Juice",
+      "Olive Oil",
+      "Garlic"
+    ],
+    "preparing_time": 15,
+    "calories": 220
+  },
+  {
+    "recipe_img": "https://i.ibb.co/CtFKvVC/Chicken-Tacos.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Chicken Tacos",
+    "recipe_title": "Spicy Chicken Tacos with Avocado",
+    "ingredients": [
+      "Chicken Breast",
+      "Taco Shells",
+      "Avocado",
+      "Lettuce",
+      "Tomato",
+      "Cheese",
+      "Sour Cream",
+      "Taco Seasoning"
+    ],
+    "preparing_time": 30,
+    "calories": 350
+  },
+  {
+    "recipe_img": "https://i.ibb.co/Zhc3M7x/Pancakes.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Pancakes",
+    "recipe_title": "Fluffy Homemade Pancakes",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Baking Powder",
+      "Salt",
+      "Sugar",
+      "Butter"
+    ],
+    "preparing_time": 20,
+    "calories": 300
+  },
+  {
+    "recipe_img": "https://i.ibb.co/KhBsHTJ/Tomato-Soup.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Tomato Soup",
+    "recipe_title": "Creamy Tomato Basil Soup",
+    "ingredients": [
+      "Tomatoes",
+      "Basil",
+      "Garlic",
+      "Onion",
+      "Olive Oil",
+      "Vegetable Broth",
+      "Cream",
+      "Salt",
+      "Pepper"
+    ],
+    "preparing_time": 40,
+    "calories": 180
+  },
+  {
+    "recipe_img": "https://i.ibb.co/5rtC0TL/Margherita-Pizza.jpg",
+    "recipe_id": 6,
+    "recipe_name": "Margherita Pizza",
+    "recipe_title": "Classic Margherita Pizza with Fresh Basil",
+    "ingredients": [
+      "Pizza Dough",
+      "Tomato Sauce",
+      "Mozzarella Cheese",
+      "Basil",
+      "Olive Oil",
+      "Salt"
+    ],
+    "preparing_time": 35,
+    "calories": 600
+  },
+  {
+    "recipe_img": "https://i.ibb.co/NFjNDTh/Cheeseburger.jpg",
+    "recipe_id": 7,
+    "recipe_name": "Cheeseburger",
+    "recipe_title": "Juicy Cheeseburger with Special Sauce",
+    "ingredients": [
+      "Ground Beef",
+      "Burger Buns",
+      "Cheddar Cheese",
+      "Lettuce",
+      "Tomato",
+      "Onion",
+      "Pickles",
+      "Special Sauce"
+    ],
+    "preparing_time": 20,
+    "calories": 550
+  },
+  {
+    "recipe_img": "https://i.ibb.co/27wL2yC/Berry-Smoothie.jpg",
+    "recipe_id": 8,
+    "recipe_name": "Berry Smoothie",
+    "recipe_title": "Refreshing Berry Smoothie",
+    "ingredients": [
+      "Strawberries",
+      "Blueberries",
+      "Banana",
+      "Greek Yogurt",
+      "Honey",
+      "Almond Milk"
+    ],
+    "preparing_time": 10,
+    "calories": 200
+  }
+]

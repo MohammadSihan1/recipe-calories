@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+}
